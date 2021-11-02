@@ -23,5 +23,3 @@
 
 - Blog : <https://8639sung.github.io> 
 - Email : <8639sung@gmail.com>
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8639sung&theme=blue-green)
