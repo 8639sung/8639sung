@@ -21,5 +21,5 @@
 
 ## CONTACT
 
-- Blog : <https://8639sung.github.io> 
+- Blog : <https://re-code-cord.tistory.com/> 
 - Email : <8639sung@gmail.com>
