@@ -13,7 +13,7 @@
   이미지에서 재활용 쓰레기를 구분하는 프로젝트입니다. MMSegmentation을 사용하기 위한 환경을 구축하고, 모델 실험부터 CRF 그리고 앙상블까지 다양한 시도를 통해 높은 점수를 얻는데 기여했습니다.
 
 - [재활용 쓰레기 탐지 : Obejct Detection](https://github.com/boostcampaitech2/object-detection-level2-cv-04) (3rd place out of 19 teams)   
-  이미지에서 재활용 쓰레기를 찾는 프로젝트입니다. YOLOv5와 같은 1-Stage 모델 위주로 탐색하고 최종적으로 1-Stage와 2-Stage 모델의 앙상블(WBF)로 성능을 높이는데 기여했습니다.  
+  이미지에서 재활용 쓰레기를 찾는 프로젝트입니다. 'YOLOv5'와 같은 1-Stage 모델 위주로 탐색하고 최종적으로 1-Stage와 2-Stage 모델의 앙상블(WBF)로 성능을 높이는데 기여했습니다.  
 
 <br>
 
