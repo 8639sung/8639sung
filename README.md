@@ -4,6 +4,8 @@
 
 - [올바른 손 씻기 교육을 위한 손 씻기 단계 인식 모델](https://github.com/boostcampaitech2/final-project-level3-cv-04)    
  올바른 손 씻기 교육을 위한 모델을 제작하고 웹에 배포하는 프로젝트 입니다. Project Manager로 일정 관리 및 진행 사항 점검의 역할을 수행하였습니다. 또한, Streamlit으로 모델을 시연하기 위한 Web을 구현하고, UI 제작 및 다양한 기능 구현에 기여했습니다. 
+ 
+ <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/>
 
