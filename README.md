@@ -1,6 +1,6 @@
 ## Working On
-- OpenCV 공부중
-- Generative Model 공부중 
+- OpenCV 
+- Generative Model 
 
  <br>
 
