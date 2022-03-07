@@ -33,6 +33,7 @@
 - [개인 웹 프로젝트](https://github.com/8639sung/Project_Henesys)    
   Django 프레임워크를 사용해 웹 사이트를 제작하며, 다양한 기능을 구현해보며 Document를 읽고 구현하는 능력을 키웠습니다.
 
+<br>
 
 ## CONTACT
 
