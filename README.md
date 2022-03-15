@@ -1,6 +1,6 @@
 ## Working On
-- OpenCV 
-- Generative Model 
+- [OpenCV](https://github.com/8639sung/Python_OpenCV) 
+- [Generative Model](https://github.com/8639sung/Generative_Model) 
 
  <br>
 
