@@ -1,8 +1,8 @@
 ## Working On
-- [OpenCV](https://github.com/8639sung/Python_OpenCV) 
+- [OpenCV](https://github.com/8639sung/Python_OpenCV)   
  OpenCV의 대표적인 함수들을 사용해보면서, 파이썬에 익숙해지는 중입니다.
- 
-- [Generative Model](https://github.com/8639sung/Generative_Model) 
+  
+- [Generative Model](https://github.com/8639sung/Generative_Model)   
  Generative Model 관련 논문을 읽고 정리하는 중입니다. 실제로 논문을 구현해보며 내용을 이해하고 있습니다.    
 
  <br>
